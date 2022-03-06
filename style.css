@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+}
+.nav{
+    background-color: rgba(24, 22, 22, 0.692);
+    height: 42px;
+    width: 100%;
+}
+span{
+    display: inline-block;
+    color:blue;
+    font-size: 16px;
+    cursor: pointer;
+}
+button{
+    background-color: orange;
+    color: aliceblue;
+    font-size: 30px;
+    border-color: transparent;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(24, 22, 22, 0.692);
+}
+.list{
+    height: 80px;
+    width: 100%;
+    margin-left: 50px;
+}
+
+.lenovo{
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.samsung{
+    margin-left: 700px;
+}
+#lenovoA7{
+    display: block;
+    margin-top: 200px;
+    margin-left: 180px;
+}
+#lenovoA{
+    position: relative;
+    display: block;
+    margin-left: 440px;
+}
+#lenovo7{
+    position: relative;
+    display: block;
+    margin-left: 690px;
+}
+#len{
+    position: relative;
+    display: block; 
+    margin-left: 940px;
+}
+#leno{
+    position: relative;
+    display: block; 
+    margin-left: 1200px;
+}
+
+
+
+
